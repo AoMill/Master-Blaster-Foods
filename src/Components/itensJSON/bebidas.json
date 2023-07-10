@@ -1,0 +1,44 @@
+[
+    {
+      "id": 25,
+      "titulo": "Marte Vermelho",
+      "imagem": "MarteVermelho",
+      "valor":29,
+      "descricao": "Essa bebida alcoólica exótica combina o sabor suave da vodka premium com um toque cítrico de laranja-sangue. O Marte Vermelho apresenta uma coloração vibrante e intensa, remetendo à atmosfera marciana. Seu sabor único proporciona uma experiência marcante, transportando você para as paisagens misteriosas do planeta vermelho. *400ml*"
+    },
+    {
+      "id": 26,
+      "titulo": "Nebulosa de Saturno",
+      "imagem": "NeSaturno" ,
+      "valor":27,
+      "descricao": "A Nebulosa de Saturno é uma bebida alcoólica que mescla a delicadeza do gin com a intensidade do licor de amora. Sua coloração roxa profunda é inspirada nas belezas do sistema saturniano. Ao saborear essa bebida exótica, você sentirá um equilíbrio perfeito entre doçura e frescor, como se estivesse flutuando entre as nuvens gasosas de Saturno. *400ml*"
+    },
+    {
+      "id": 27,
+      "titulo": "Aurora Boreal de Limão",
+      "imagem": "BoLimao" ,
+      "valor":16,
+      "descricao": "A Aurora Boreal de Limão é uma bebida refrigerante refrescante e efervescente, que combina o sabor cítrico do limão com um toque suave de menta. Seu nome é uma homenagem aos espetáculos naturais do Ártico. Com sua coloração verde vibrante e seu sabor refrescante, essa bebida proporciona uma experiência revigorante como uma dança de luzes no céu noturno. *1L*"
+    },
+    {
+      "id": 28,
+      "titulo": "Oceano de Gás de Júpiter",
+      "imagem": "GaJupiter" ,
+      "valor":18,
+      "descricao": "O Oceano de Gás de Júpiter é um refrigerante borbulhante com uma mistura de sabores frutados, como laranja, abacaxi e framboesa. Sua coloração azul brilhante é inspirada nas tempestades e gases atmosféricos de Júpiter. Ao degustar essa bebida única, você sentirá um verdadeiro turbilhão de sabores, trazendo um gostinho celestial ao seu paladar. *1L*"
+    },
+    {
+      "id": 29,
+      "titulo": "Planeta Tropical",
+      "imagem": "PlTropical",
+      "valor":22,
+      "descricao": "O Planeta Tropical é uma mistura de sucos de frutas exóticas, como manga, maracujá e abacaxi. Essa bebida refrescante traz consigo um sabor tropical incomparável, transportando você para praias paradisíacas. Sua coloração amarela radiante e seu aroma frutado são um convite para um momento de relaxamento e alegria. *1L*"
+    },
+    {
+      "id": 30,
+      "titulo": "Eclipse Vermelho",
+      "imagem": "eclipse",
+      "valor":24,
+      "descricao": "O Eclipse Vermelho é uma bebida de suco de frutas com uma combinação intrigante de romã, cranberry e morango. Sua coloração vermelha intensa e sua textura suave evocam a magia de um eclipse lunar. Ao saborear essa bebida única, você sentirá a doçura balanceada das frutas vermelhas dançando em harmonia, criando um verdadeiro espetáculo de sabores em seu paladar. *1L*"
+    }
+  ]    

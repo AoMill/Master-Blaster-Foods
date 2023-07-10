@@ -1,0 +1,56 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 10px 0 10px
+    
+}
+
+.voltar {
+    font-size: 30px;
+    color: antiquewhite;
+    background-color: rgba(214, 81, 33, 0.932);
+    height: 30px;
+    ;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.voltar:hover {
+    background: rgba(73, 52, 69, 1) 27%;
+    transition: 0.7s;
+    transform: scale(1.1);
+}
+.numero {
+    position: relative;
+    background-color: rgb(16, 134, 16);
+    color: black;
+    font-weight: bolder;
+    border-radius: 12px;
+    width: 12px;
+    height: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 11px;
+}
+
+.carrinh {
+    display: flex;
+    font-size: 20px;
+    padding-right: 1% ;
+    color: rgb(231, 231, 218);
+    cursor: pointer;
+}
+.nome{
+ color:white ;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ background-color: rgba(212, 102, 43, 0.945);
+ box-shadow: -2px 5px 29px -4px rgba(0,0,0,0.75);
+ border-radius: 5px;
+ height: 20%;
+ padding-left: 2px;
+ padding-right: 2px;
+ margin-bottom: 0;
+}
+
+

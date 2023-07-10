@@ -1,0 +1,44 @@
+[
+    {
+      "id": 7,
+      "titulo": "The Milky Way",
+      "imagem": "milkyWay",
+      "valor":15,
+      "descricao": "Uma mistura cremosa de sorvete de baunilha, calda de chocolate e redemoinhos de caramelo, coberto com chantilly e granulado estrelado. Um gole deste batido irá levá-lo numa viagem galáctica."
+    },
+    {
+      "id": 8,
+      "titulo": "The Black Hole",
+      "imagem": "BlackHole" ,
+      "valor":20,
+      "descricao": "Um shake escuro e decadente feito com sorvete de chocolate, pedaços de brownie e calda de fudge, decorado com chantilly e raspas de chocolate. Este batido é tão rico e denso que o vai sugar."
+    },
+    {
+      "id": 9,
+      "titulo": "The Supernova",
+      "imagem": "supernova" ,
+      "valor":18,
+      "descricao": "Um shake brilhante e explosivo feito com sorvete de morango, purê de framboesa e raspas de limão, decorado com chantilly e granulado arco-íris. Este shake está repleto de sabor e cor. "
+    },
+    {
+      "id": 10,
+      "titulo": "The Comet",
+      "imagem": "Comet" ,
+      "valor":17,
+      "descricao": "Um shake fresco e refrescante feito com sorvete de menta, biscoitos oreo e extrato de menta, coberto com chantilly e bastões de doces triturados. Essa agitação fará você se sentir como se estivesse voando pelo espaço. "
+    },
+    {
+      "id": 11,
+      "titulo": "The Nebula",
+      "imagem": "Nebula",
+      "valor":16,
+      "descricao": "Um shake colorido e criativo feito com sorvete de algodão doce, calda de mirtilo e penugem de marshmallow, adornado com chantilly e glitter comestível. Este batido irá inspirá-lo a sonhar grande."
+    },
+    {
+      "id": 12,
+      "titulo": "The Solar Flare",
+      "imagem": "SolarFlare",
+      "valor":22,
+      "descricao": "Um shake picante feito com sorvete de manga, suco de abacaxi e pimenta em pó, finalizado com chantilly e flocos de pimenta. Este batido vai aquecer o seu paladar."
+    }
+  ]    

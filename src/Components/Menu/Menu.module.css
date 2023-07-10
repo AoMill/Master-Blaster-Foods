@@ -1,0 +1,170 @@
+.hamburg {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 35px;
+    border-bottom: solid 2px rgba(252, 151, 96, 1) 87%;
+}
+
+.hamburgDois {
+    display: none;
+}
+
+.sorvete {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 35px;
+
+}
+
+.sorveteDois {
+    display: none;
+    
+}
+
+.hotdog {
+    display: none;
+}
+
+.hotdogDois {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 35px;
+}
+
+.pizz {
+    display: none;
+}
+
+.pizzDois {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 35px;
+}
+.drink{
+    display: none;
+}
+.drinkDois{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 35px;
+}
+
+.snacks{
+    display: none;
+}
+.snacksDois{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 35px;
+}
+
+.escolherMenu img {
+    background-color: rgba(223, 205, 205, 0.897);
+    border-radius: 40%;
+    width: 10%;
+    height: 5%;
+    box-shadow: -14px 8px 28px 3px rgba(32, 191, 212, 0.75);
+    cursor: pointer;
+}
+
+
+@media (min-width:320px) and (max-width:420px) {
+    .escolherMenu {
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        border-radius: 10px;
+        bottom: 0;
+        left: 0;
+        background-color: rgba(7, 207, 164, 0.918);
+        width: 100%;
+        padding-bottom: 1%;
+        padding-top: 1%;
+        padding-left: 3%;
+    }
+    
+    .escolherMenu img {
+        background-color: rgba(190, 190, 190, 0.897);
+        margin-right: 0.6rem;
+        width: 13%;
+        height: 100%;
+        box-shadow: -14px 8px 28px 3px rgba(20, 20, 20, 0.75);
+    }
+
+}
+
+@media (min-width:421px) and (max-width:600px) {
+    .escolherMenu {
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        border-radius: 20px;
+        bottom: 0;
+        left: 6%;
+        background-color: rgba(7, 207, 164, 0.918);
+        width: 90%;
+        padding-bottom: 1%;
+        padding-top: 1%;
+        padding-left: 3%;
+    }
+
+    .escolherMenu img {
+        width: 3rem;
+        margin-right: 3%;
+        box-shadow: -14px 8px 28px 3px rgba(20, 20, 20, 0.75);
+    }
+}
+
+@media (min-width:601px) and (max-width:1226px) {
+    .escolherMenu {
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        border-radius: 20px;
+        bottom: 0;
+        left: 10%;
+        background-color: rgba(7, 207, 164, 0.918);
+        width: 80%;
+        padding-bottom: 0.15%;
+        padding-top: 0.15%;
+        padding-left: 3%;
+    }
+
+    .escolherMenu img {
+        background-color: rgba(223, 205, 205, 0.897);
+        font-size: 10%;
+        margin-right: 2rem;
+        width: 45px;
+        box-shadow: -14px 8px 28px 3px rgba(0, 0, 0, 0.75);
+    }
+}
+
+@media (min-width:1227px) {
+    .escolherMenu {
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        border-radius: 20px;
+        bottom: 0;
+        left: 18%;
+        background-color: rgba(7, 207, 164, 0.918);
+        width: 65%;
+        padding-bottom: 0.15%;
+        padding-top: 0.15%;
+        padding-left: 3%;
+    }
+
+    .escolherMenu img {
+        background-color: rgba(223, 205, 205, 0.897);
+        font-size: 10%;
+        margin-right: 2rem;
+        width: 45px;
+        box-shadow: -14px 8px 28px 3px rgba(0, 0, 0, 0.75);
+    }
+}

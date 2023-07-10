@@ -1,0 +1,44 @@
+[
+    {
+      "id": 19,
+      "titulo": "Supernova Saborosa",
+      "imagem": "saborosa",
+      "valor":44,
+      "descricao": "Essa pizza celestial é uma explosão de sabores! Com uma base de molho de tomate suave, queijo mozzarella derretido e uma generosa cobertura de pepperoni, cogumelos e azeitonas pretas, essa pizza é tão brilhante quanto uma supernova no céu noturno."
+    },
+    {
+      "id": 20,
+      "titulo": "Nebulosa de Queijos",
+      "imagem": "queijo" ,
+      "valor":40,
+      "descricao": "Prepare-se para uma experiência cósmica de queijos deliciosos! Essa pizza traz uma mistura celestial de queijos, incluindo mozzarella, gorgonzola e parmesão, em uma base de molho branco cremoso. Completa com rúcula fresca e um toque de azeite de oliva, essa pizza é tão fascinante quanto uma nebulosa no espaço sideral."
+    },
+    {
+      "id": 21,
+      "titulo": "Estrela Cadente",
+      "imagem": "frango" ,
+      "valor":37,
+      "descricao": " Esta pizza traz a deliciosa combinação de frango grelhado suculento, bacon crocante e cebola roxa em uma base de molho barbecue defumado. Completada com queijo cheddar derretido e um toque de coentro fresco, essa pizza vai fazer você desejar que estrelas cadentes sejam feitas de frango!"
+    },
+    {
+      "id": 22,
+      "titulo": "Galáxia Vegana",
+      "imagem": "veg" ,
+      "valor":46,
+      "descricao": "Para os amantes de pizza vegana, essa opção celeste é perfeita! Com uma base de molho de tomate aromático, queijo vegano derretido e uma generosa cobertura de cogumelos, pimentões coloridos e cebola caramelizada, essa pizza é uma verdadeira obra-prima gastronômica estelar."
+    },
+    {
+      "id": 23,
+      "titulo": "Planeta Vermelho",
+      "imagem": "vermelho",
+      "valor":35,
+      "descricao": "Seja transportado para o Planeta Vermelho com a nossa pizza inspirada em Marte. Uma base de massa fina é coberta com molho de tomate temperado, queijo mussarela, linguiça picante, pimentão vermelho, cebola roxa e azeitonas pretas. Adicione um toque de orégano e um fio de azeite de oliva para uma experiência interplanetária inesquecível."
+    },
+    {
+      "id": 24,
+      "titulo": "Buraco Negro",
+      "imagem": "chocolate",
+      "valor":34,
+      "descricao": "Esta pizza é uma sobremesa irresistível que combina o sabor intenso do chocolate com o crocante da massa de pizza. Coberta com uma generosa quantidade de chocolate derretido, pedaços de brownie e marshmallows torrados, essa pizza doce é tão sedutora quanto um buraco negro no universo."
+    }
+  ]    

@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "titulo": "The Andromeda Burger",
+      "imagem": "andromeda",
+      "valor":24,
+      "descricao": "Um suculento hambúrguer de carne coberto com queijo derretido, bacon crocante, alface, tomate e um molho especial de galáxias em um pão de gergelim preto. Um hambúrguer tão grande e saboroso que vai fazer você se sentir em outra galáxia."
+    },
+    {
+      "id": 2,
+      "titulo": "The Cassiopeia Burger",
+      "imagem": "Cassiopeia" ,
+      "valor":30,
+      "descricao": "Um suculento hambúrguer de cordeiro temperado com alecrim e alho, coberto com queijo feta, pepino e molho tzatziki em um pão pita. Um hambúrguer rico e cremoso, assim como a constelação de Cassiopeia. "
+    },
+    {
+      "id": 3,
+      "titulo": "The Milky Way Burger",
+      "imagem": "milkWay" ,
+      "valor":22,
+      "descricao": "Um hambúrguer macio de frango coberto com flocos de milho crocantes, coberto com molho de mostarda e mel e servido com alface, cebola e picles em um pão de brioche macio. Um hambúrguer doce e salgado, assim como nossa galáxia. "
+    },
+    {
+      "id": 4,
+      "titulo": "The Orion Burger",
+      "imagem": "Orion" ,
+      "valor":26,
+      "descricao": "Um hambúrguer vegetariano picante feito com feijão preto, quinoa e jalapeños, coberto com guacamole, salsa e creme azedo em um pão multigrãos. Um hambúrguer cheio de sabor e calor, assim como a Nebulosa de Orion. "
+    },
+    {
+      "id": 5,
+      "titulo": "The Pluto Burger:",
+      "imagem": "pluto",
+      "valor":18,
+      "descricao": "Um mini hambúrguer de carne com ketchup, mostarda e picles em um pão deslizante. Um hambúrguer pequeno, mas poderoso, assim como o planeta anão. "
+    },
+    {
+      "id": 6,
+      "titulo": "The Sirius Burger:",
+      "imagem": "sirius",
+      "valor":28,
+      "descricao": "Um hambúrguer de dar água na boca coberto com molho barbecue, coberto com queijo cheddar, salada de repolho e rodelas de cebola em um pão de pretzel. Um hambúrguer defumado e crocante, como a estrela mais brilhante do céu. "
+    }
+  ]    

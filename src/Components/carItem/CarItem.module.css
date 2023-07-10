@@ -1,0 +1,187 @@
+.fotoitem {
+    width: 30%;
+    height: 30%;
+}
+.imagem {
+    width: 100%;
+    height: 100%;
+    margin-top: 5px;
+    box-shadow: 0px 3px 13px 1px rgba(0,0,0,0.75);
+}
+
+@media (min-width:320px) and (max-width:480px) {
+    table {
+        width: 88vw;
+        background: rgba(252, 151, 96, 0.76);
+        border-radius: 25px;
+        box-shadow: inset 7px 11px 11px 1px rgba(218, 85, 8, 0.38);
+        border-bottom: solid 1px rgba(27, 27, 27, 0.76);
+    
+    }
+    .titulo {
+        border-bottom: solid 1px rgb(83, 80, 76);
+        width: 20vw;
+        padding-left: 1%;
+        
+    }
+    .valor {
+       
+        width: 15vw;
+    }
+    .quant {
+        margin-top: 65%;
+        width: 14vw;
+      
+    }
+    .qtyy{
+        background-color: rgb(83, 80, 76);
+        color: rgb(248, 250, 250);
+        border-radius: 10px;
+        display: inline;
+        justify-content: center;
+        align-items: center;
+    }
+    .BotaoQuant {
+        background-color: rgba(243, 96, 11, 0.911);
+        border: none;
+        width: 4vw;
+        height: 2vh;
+        font-size: 100%;
+        border-radius: 50%;
+        padding: 0;
+    }
+    .quantV{
+        margin-right: 6%;
+        margin-left: 4%;
+    }
+    
+    .BotaoExcluir {
+        background-color: rgba(221, 26, 26, 0.76);
+        border: none;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    }
+
+}
+@media (min-width:481px) and (max-width:768px) {
+    table {
+        width: 88vw;
+        background: rgba(252, 151, 96, 0.76);
+        border-radius: 25px;
+        box-shadow: inset 7px 11px 11px 1px rgba(218, 85, 8, 0.38);
+        border-bottom: solid 1px rgba(68, 68, 68, 0.76);
+    }
+    
+    .titulo {
+        border-bottom: solid 1px rgb(83, 80, 76);
+        width: 25vw;
+        margin-left: 10px;
+        font-size: 110%;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        padding-left: 3%;    
+    }
+    .quant {
+        margin-top: 65%;
+        width: 13vw;
+        padding-left: 1%;
+    }
+    .qtyy{
+        background-color: rgb(83, 80, 76);
+        color: rgb(248, 250, 250);
+        border-radius: 10px;
+        font-size: 110%;
+        display: inline;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .BotaoQuant {
+    
+        background-color: rgba(243, 96, 11, 0.911);
+        border: none;
+        border-radius: 10px;
+        font-size: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+    .quantV{
+        margin-right: 6%;
+        margin-left: 4%;
+        font-size: 100%;
+    }
+    
+    .BotaoExcluir {
+        background-color: rgba(221, 26, 26, 0.76);
+        border: none;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 110%;
+        
+    }
+    
+    .valor {
+        font-size: 110%;
+        padding-left: 0.5%;
+        width: 12vw;
+    }
+   
+}
+@media (min-width:769px) {
+    table {
+        width: 49vw;
+        background: rgba(252, 151, 96, 0.76);
+        border-radius: 25px;
+        box-shadow: inset 7px 11px 11px 1px rgba(218, 85, 8, 0.38);
+        border-bottom: solid 1px rgba(68, 68, 68, 0.76);
+    }
+    .titulo {
+        border-bottom: solid 1px rgb(83, 80, 76);
+        width: 10vw;
+        font-size: 110%;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        padding-left: 1%;    
+    }
+    .quant {
+        width: 10vw;
+
+        padding-left: 1.5%;
+    }
+    .qtyy{
+        background-color: rgb(83, 80, 76);
+        color: rgb(248, 250, 250);
+        border-radius: 10px;
+        display: inline;
+        justify-content: center;
+        align-items: center;
+    }
+    .BotaoQuant {
+        background-color: rgba(243, 96, 11, 0.911);
+        border: none;
+        border-radius: 10px;
+        font-size: 100%;
+        
+    }
+    .quantV{
+        margin-right: 6%;
+        margin-left: 4%;
+        font-size: 100%;
+    }
+    .BotaoExcluir {
+        background-color: rgba(221, 26, 26, 0.76);
+        border: none;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;   
+    }
+    .valor {
+        font-size: 110%;
+        padding-left: 3%;
+       
+    }
+}

@@ -1,0 +1,44 @@
+[
+    {
+      "id": 31,
+      "titulo": "Planetary Puffs",
+      "imagem": "planetary",
+      "valor":26,
+      "descricao": "Esses petiscos recheados são pequenas nuvens fofas e douradas, inspiradas nos planetas do sistema solar. Cada uma delas é recheada com uma combinação única de sabores. Por exemplo, a Puff Terra pode ter recheio de carne moída com temperos terrosos, enquanto a Puff Marte pode ser recheada com queijo picante e pimenta vermelha. Uma experiência de mordida que leva você em uma viagem gastronômica interplanetária. *12 Unidades*"
+    },
+    {
+      "id": 32,
+      "titulo": "Saturn Rings",
+      "imagem": "saturnoRings" ,
+      "valor":24,
+      "descricao": "Esses petiscos são anéis crocantes e dourados, lembrando os icônicos anéis do planeta Saturno. Feitos de cebola empanada, eles são fritos até ficarem crocantes por fora e macios por dentro. Cada anel é generosamente recheado com queijo derretido, proporcionando uma explosão de sabor a cada mordida. Os Saturn Rings são perfeitos para compartilhar com amigos enquanto você explora o universo dos sabores. *12 Unidades*"
+    },
+    {
+      "id": 33,
+      "titulo": "Jupiter Bombs",
+      "imagem": "jupterBombs" ,
+      "valor":36,
+      "descricao": "Esses petiscos surpreendentes são uma combinação de batatas recheadas e bolinhos fritos. As Jupiter Bombs são feitas com batatas grandes e macias, recheadas com uma mistura deliciosa de bacon crocante, queijo cheddar derretido e cebolinha picada. Cada bomba é frita até ficar dourada e crocante por fora, enquanto o recheio cremoso explode em sabores ricos e intensos. *4 Unidades*"
+    },
+    {
+      "id": 34,
+      "titulo": "Mars Empanadas",
+      "imagem": "marsEmpan" ,
+      "valor":26,
+      "descricao": "Essas empanadas saborosas são uma homenagem ao planeta Marte, com uma casca dourada e recheio irresistível. As Mars Empanadas são feitas com massa caseira e amanteigada, recheadas com carne moída temperada com especiarias marcantes. O recheio é então complementado com pedaços de pimentão vermelho assado, queijo derretido e azeitonas pretas. Cada mordida é uma explosão de sabores que o transporta para o planeta vermelho. *6 Unidades*"
+    },
+    {
+      "id": 35,
+      "titulo": "Lunar Cheese Balls",
+      "imagem": "LunarCheese",
+      "valor":28,
+      "descricao": "Esses petiscos em forma de bolinhas são uma deliciosa combinação de queijos cremosos. As Lunar Cheese Balls são feitas com uma mistura de queijo cheddar, queijo creme e parmesão ralado, formando bolinhas macias e suaves. Cada bolinha é coberta com uma camada crocante de migalhas de pão temperadas. O resultado é uma explosão de queijo derretido e texturas contrastantes que satisfazem os amantes de queijo. *12 Unidades*"
+    },
+    {
+      "id": 36,
+      "titulo": "Solar Nachos",
+      "imagem": "nach",
+      "valor":30,
+      "descricao": "Esses nachos celestiais são uma versão cósmica do clássico petisco. Feitos com uma base de chips de milho crocantes, os Solar Nachos são generosamente cobertos com feijão preto refogado, carne moída temperada, queijo derretido, guacamole fresco e molho de pimenta. O conjunto é finalizado com uma pitada de coentro picado e fatias de jalapeño para um toque picante. *600g*"
+    }
+  ]    

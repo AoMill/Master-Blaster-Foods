@@ -1,0 +1,44 @@
+[
+    {
+      "id": 13,
+      "titulo": "The ultimate hotdog",
+      "imagem": "ultimate",
+      "valor":23,
+      "descricao": "Uma suculenta linguiça bovina coberta com queijo derretido, bacon crocante, cebola caramelizada e molho barbecue, servida em um pão macio.  "
+    },
+    {
+      "id": 14,
+      "titulo": "The spicy hotdog",
+      "imagem": "spicy" ,
+      "valor":24,
+      "descricao": "Uma linguiça de frango temperada com chili con carne, jalapeños, queijo nacho e creme azedo, servida em um wrap crocante de tortilla. "
+    },
+    {
+      "id": 15,
+      "titulo": "The gourmet hotdog",
+      "imagem": "gourmat" ,
+      "valor":28,
+      "descricao": "Um cachorro-quente com uma suculenta carne de porco e frango, molho teriyaki, aioli de alho preto e anéis de cebola. Servido em um pão de pretzel. "
+    },
+    {
+      "id": 16,
+      "titulo": "The veggie hotdog",
+      "imagem": "vegano" ,
+      "valor":25,
+      "descricao": "Uma deliciosa linguiça de soja recheada com cogumelos grelhados, pimentão, abobrinha e maionese vegana, servida em pão integral. "
+    },
+    {
+      "id": 17,
+      "titulo": "The fusion hotdog",
+      "imagem": "fusion",
+      "valor":26,
+      "descricao": "Uma saborosa linguiça de cordeiro polvilhada com queijo feta, azeitonas, tomates e molho tzatziki, servida em pão pita. "
+    },
+    {
+      "id": 18,
+      "titulo": "The sweet hotdog",
+      "imagem": "sweet",
+      "valor":20,
+      "descricao": "Uma salsicha de chocolate decadente recheada com marshmallows e nozes, regada com caramelo e chantilly, servida em um pão de rosquinha. "
+    }
+  ]    
